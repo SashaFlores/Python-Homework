@@ -1,0 +1,12 @@
+REFERENCES:
+append has no function:
+https://www.reddit.com/r/learnpython/comments/4921vi/int_object_has_no_attribute_append_help_please/
+
+unexpected indent:
+https://www.quora.com/What-is-unexpected-indent-in-python
+
+I/O operation on closed file:
+https://stackoverflow.com/questions/18952716/valueerror-i-o-operation-on-closed-file
+
+TypeError: 'int' object is not subscriptable:
+https://www.youtube.com/watch?v=K_oXb04izZM&list=PLHcCFPczAAVZK3QoOf7RmbUmxhaBzM0a_&index=3&t=0s
